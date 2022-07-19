@@ -18,5 +18,6 @@ public void practice3test()
 public void practice4test()
 {
 System.out.println("TYSS1---> Test1");
+System.out.println("hi this is nishanth");
 }
 }
