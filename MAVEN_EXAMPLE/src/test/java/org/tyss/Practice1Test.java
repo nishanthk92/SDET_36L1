@@ -19,5 +19,6 @@ public void practice4test()
 {
 System.out.println("TYSS1---> Test1");
 System.out.println("hi this is nishanth");
+System.out.println("Hi welcome to github");
 }
 }
